@@ -20,7 +20,7 @@
     End Sub
 
     Private Sub Btn0_Click(sender As Object, e As EventArgs) Handles Btn0.Click
-
+        Result.Text = Result.Text + "0"
     End Sub
 
     Private Sub Btn1_Click(sender As Object, e As EventArgs) Handles Btn1.Click

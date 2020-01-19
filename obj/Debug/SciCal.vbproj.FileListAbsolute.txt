@@ -20,3 +20,15 @@ C:\Users\Tedbu\source\repos\Scientific Calculator\Buted-Projects\SciCal\obj\Debu
 C:\Users\Tedbu\source\repos\Scientific Calculator\Buted-Projects\SciCal\obj\Debug\SciCal.exe
 C:\Users\Tedbu\source\repos\Scientific Calculator\Buted-Projects\SciCal\obj\Debug\SciCal.xml
 C:\Users\Tedbu\source\repos\Scientific Calculator\Buted-Projects\SciCal\obj\Debug\SciCal.pdb
+C:\Users\Timo\Downloads\Win10 Calculator\bin\Debug\SciCal.exe.config
+C:\Users\Timo\Downloads\Win10 Calculator\bin\Debug\SciCal.exe
+C:\Users\Timo\Downloads\Win10 Calculator\bin\Debug\SciCal.pdb
+C:\Users\Timo\Downloads\Win10 Calculator\bin\Debug\SciCal.xml
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.vbprojResolveAssemblyReference.cache
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.Form1.resources
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.Resources.resources
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.vbproj.GenerateResource.Cache
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.vbproj.CoreCompileInputs.cache
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.exe
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.xml
+C:\Users\Timo\Downloads\Win10 Calculator\obj\Debug\SciCal.pdb
