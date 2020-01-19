@@ -56,7 +56,7 @@
     End Sub
 
     Private Sub Btn9_Click(sender As Object, e As EventArgs) Handles Btn9.Click
-
+        Result.Text = Result.Text + "9"
     End Sub
 
     Private Sub Max2Btn(sender As Object, e As MouseEventArgs) Handles MaxBtn.MouseDown
