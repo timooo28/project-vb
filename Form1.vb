@@ -32,7 +32,7 @@
     End Sub
 
     Private Sub Btn3_Click(sender As Object, e As EventArgs) Handles Btn3.Click
-
+        Result.Text = Result.Text + "3"
     End Sub
 
     Private Sub Btn4_Click(sender As Object, e As EventArgs) Handles Btn4.Click
