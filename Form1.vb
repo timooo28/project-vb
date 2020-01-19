@@ -24,7 +24,7 @@
     End Sub
 
     Private Sub Btn1_Click(sender As Object, e As EventArgs) Handles Btn1.Click
-
+        Result.Text = Result.Text + "1"
     End Sub
 
     Private Sub Btn2_Click(sender As Object, e As EventArgs) Handles Btn2.Click
